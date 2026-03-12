@@ -6,11 +6,11 @@
  # 二、知识体系分解
  1. 通用基础部分 -- 这是所有技术岗位的基石，必须牢固掌握
  
- - C++ 语言深度:入门与算法思想：建议先通读《Hello 算法》,这是理解高级八股的重要铺垫。  ```https://www.hello-algo.com/chapter_hashing/hash_map/```
+ - **C++ 语言深度:入门与算法思想：**建议先通读《Hello 算法》,这是理解高级八股的重要铺垫。  ```https://www.hello-algo.com/chapter_hashing/hash_map/```
              进阶八股与深度：在掌握基础后，需深入语言特性、内存管理、面向对象、模板元编程等。可通过**牛客等平台刷面经**，**从“历年真题”中反向查漏补**缺。
- - 计算机核心基础（计算机网络、操作系统、数据库）：强烈推荐小林coding的《图解网络》。```https://xiaolincoding.com/network/1_base/what_happen_url.html#%E5%AD%A4%E5%8D%95%E5%B0%8F%E5%BC%9F-http```
+ - **计算机核心基础（计算机网络、操作系统、数据库）：**强烈推荐小林coding的《图解网络》。```https://xiaolincoding.com/network/1_base/what_happen_url.html#%E5%AD%A4%E5%8D%95%E5%B0%8F%E5%BC%9F-http```
 
- - 数据结构与算法 (Leetcode)
+ **- 数据结构与算法 (Leetcode)：**
   - 第一阶段（语法与基础）：结合《Hello 算法》中的算法实现，刷完Leetcode前100道简单题，巩固C++语法和基础数据结构应用。
   - 第二阶段（系统训练）：跟随《代码随想录》的题目分类和节奏，进行系统性、专题性的刷题训练。
   - 第三阶段（面试准备）：面试前，必须确保Hot 100题目烂熟于心，建议反复练习2-3遍，达到熟练手写的程度。
